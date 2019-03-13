@@ -1,0 +1,4 @@
+/usr/programs/clion/installer/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/h0las/University/Cuda/myGalerkin
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/h0las/University/Cuda/myGalerkin/cmake-build-debug

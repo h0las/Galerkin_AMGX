@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/myGalerkin.dir/gasdin2d.cpp.o CMakeFiles/myGalerkin.dir/CSR.cpp.o  -o myGalerkin -Wl,-rpath,/home/h0las/University/Cuda/AMGX_portable/build /home/h0las/University/Cuda/AMGX_portable/build/libamgxsh.so 
